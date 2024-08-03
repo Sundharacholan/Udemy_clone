@@ -38,4 +38,4 @@ Clone the repository:
 Usage
 Once you have the project set up, you can navigate through the different pages by clicking on the navigation links. Explore the home page, course listings, course detail pages, and other static content to get a feel for the design and layout.
 
-You can also modify the HTML and CSS files to add your own content or make improvements. This project serves as a great foundation for experimenting with front-end web development techniques.
+This project serves as a great foundation for experimenting with front-end web development techniques.
